@@ -222,15 +222,6 @@ Intelligent applications using:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sumit-1104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 # 📊 GitHub Analytics
 
