@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation"/>
+
 
 Hi! I'm **Sumit Satpute**, a **Python & Django Developer** focused on building practical, scalable and user-friendly software applications.
 
@@ -219,7 +219,7 @@ Exploring intelligent applications using:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sumit-1104/Sumit-1104/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Sumit-1104/Sumit-1104/gh-pages/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
