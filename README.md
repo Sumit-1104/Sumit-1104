@@ -252,16 +252,6 @@ Intelligent applications using:
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-1104&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
