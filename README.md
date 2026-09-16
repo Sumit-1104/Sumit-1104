@@ -4,11 +4,15 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Python+%26+Django+Developer;REST+API+Developer;Full-Stack+Web+Developer;Backend+%26+Database+Engineer;Exploring+AI%2FML+%26+Developer+Tools" alt="Typing SVG"/>
+
+<br/><br/>
+
 <a href="https://github.com/Sumit-1104">
 <img src="https://img.shields.io/badge/GitHub-Sumit--1104-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://portfolio-sumit-q0nv.onrender.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/sumitsatpute/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,28 +26,25 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
+Hi! I'm **Sumit Satpute**, a **Python & Django Developer** focused on building practical, scalable and user-friendly web applications.
 
-
-Hi! I'm **Sumit Satpute**, a **Python & Django Developer** focused on building practical, scalable and user-friendly software applications.
-
-I enjoy working on **backend systems, REST APIs, authentication systems, database-driven applications and full-stack projects**.
+I enjoy developing **backend systems, REST APIs, authentication systems, database-driven applications and full-stack projects**.
 
 I'm also exploring **AI/ML and intelligent developer tools** using Python.
 
 ### ⚡ Quick Intro
 
 * 🐍 Python & Django Developer
-* 🔌 REST API & Django REST Framework
-* 🔐 JWT Authentication & Role-Based Access
+* 🔌 Django REST Framework & REST APIs
+* 🔐 JWT Authentication & Role-Based Access Control
 * 🗄️ SQL & Database Integration
 * 🌐 Full-Stack Web Development
 * 🤖 Exploring AI/ML & Developer Tools
-* 🚀 Interested in real-world software projects
+* 🔗 Third-Party API Integration
+* 🚀 Building production-oriented projects
 * 💼 Open to freelance development opportunities
-
-<br clear="right"/>
 
 ---
 
@@ -61,7 +62,7 @@ I'm also exploring **AI/ML and intelligent developer tools** using Python.
 <img src="https://skillicons.dev/icons?i=django,nodejs,express,react" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
@@ -70,15 +71,16 @@ I'm also exploring **AI/ML and intelligent developer tools** using Python.
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
 </p>
 
-### 🤖 Currently Exploring
+### 🤖 AI / ML & Developer Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=opencv" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI%2FML-Python-blueviolet?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -91,9 +93,9 @@ I'm also exploring **AI/ML and intelligent developer tools** using Python.
 
 ## 🐍 Django Applications
 
-Building database-driven web applications with:
+Database-driven web applications with:
 
-**Django · Python · SQL · Authentication · CRUD**
+**Python · Django · SQL · CRUD · Authentication**
 
 </td>
 
@@ -101,9 +103,9 @@ Building database-driven web applications with:
 
 ## 🔌 REST APIs
 
-Designing backend APIs using:
+Backend APIs using:
 
-**DRF · JWT · Permissions · Serializers · Postman**
+**DRF · JWT · Serializers · Permissions · Postman**
 
 </td>
 </tr>
@@ -111,9 +113,9 @@ Designing backend APIs using:
 <tr>
 <td width="50%" align="center">
 
-## 🌐 Full-Stack Apps
+## 🌐 Full-Stack Applications
 
-Building complete applications with:
+Complete applications with:
 
 **Frontend · Backend · Database · APIs**
 
@@ -123,7 +125,7 @@ Building complete applications with:
 
 ## 🤖 AI Developer Tools
 
-Exploring intelligent applications using:
+Intelligent applications using:
 
 **Python · AI/ML · GitHub APIs · Automation**
 
@@ -137,41 +139,62 @@ Exploring intelligent applications using:
 
 <div align="center">
 
-### 🤖 DevPilotAI
+## 🤖 DevPilotAI
 
 **AI-powered GitHub repository analysis platform**
 
-<img src="https://img.shields.io/badge/Python-Django-blue?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/GitHub-API-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-API-181717?style=flat-square&logo=github&logoColor=white"/>
 
-[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-DevPilotAI-black?style=for-the-badge\&logo=github)](https://github.com/Sumit-1104/DevPilotAI)
+<br/><br/>
+
+<a href="https://github.com/Sumit-1104/DevPilotAI">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-DevPilotAI-181717?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
-### 💼 JobPortalBackend
+## 💼 JobPortalBackend
 
 **REST API backend for a modern job portal**
 
-<img src="https://img.shields.io/badge/Python-Django-092E20?style=flat-square&logo=django"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/DRF-REST%20API-red?style=flat-square"/>
 <img src="https://img.shields.io/badge/JWT-Authentication-black?style=flat-square"/>
 
-[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-JobPortalBackend-black?style=for-the-badge\&logo=github)](https://github.com/Sumit-1104/JobPortalBackend)
+<br/><br/>
+
+<a href="https://github.com/Sumit-1104/JobPortalBackend">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-JobPortalBackend-181717?style=for-the-badge&logo=github"/>
+</a>
+
+ 
+
+<a href="https://jobportalbackend-uypb.onrender.com">
+<img src="https://img.shields.io/badge/LIVE%20API-Visit-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
 
 ---
 
-### 🛡️ CodeSentry
+## 🛡️ CodeSentry
 
 **Multi-agent AI system for automated code review**
 
-<img src="https://img.shields.io/badge/Python-AI-blue?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI-Code%20Review-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-Developer%20Tools-orange?style=flat-square"/>
 
-[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-CodeSentry-black?style=for-the-badge\&logo=github)](https://github.com/Sumit-1104/codesentry)
+<br/><br/>
+
+<a href="https://github.com/Sumit-1104/codesentry">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-CodeSentry-181717?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
-### ⚛️ CODEWIZ
+## ⚛️ CODEWIZ
 
 **MERN Stack web application**
 
@@ -179,7 +202,11 @@ Exploring intelligent applications using:
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-CODEWIZ-black?style=for-the-badge\&logo=github)](https://github.com/Sumit-1104/CODEWIZ)
+<br/><br/>
+
+<a href="https://github.com/Sumit-1104/CODEWIZ">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-CODEWIZ-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
@@ -187,11 +214,21 @@ Exploring intelligent applications using:
 
 # 🔐 Other Projects
 
-| Project                                                                                       | Description                              | Tech   |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------- | ------ |
-| 🔐 [Django Authentication System](https://github.com/Sumit-1104/Django-authentication-system) | User registration, login & logout system | Django |
-| 🌐 [My Portfolio](https://github.com/Sumit-1104/my-portfolio)                                 | Personal developer portfolio             | HTML   |
-| 🧩 More Projects                                                                              | Explore all my repositories              | GitHub |
+| Project                                                                                       | Description                              | Technology |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------- |
+| 🔐 [Django Authentication System](https://github.com/Sumit-1104/Django-authentication-system) | User registration, login & logout system | Django     |
+| 🌐 [My Portfolio](https://github.com/Sumit-1104/my-portfolio)                                 | Personal developer portfolio             | HTML / CSS |
+| 📂 [All Repositories](https://github.com/Sumit-1104?tab=repositories)                         | Explore my complete project collection   | GitHub     |
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sumit-1104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
@@ -199,7 +236,7 @@ Exploring intelligent applications using:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sumit-1104&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sumit-1104&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-1104&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 
@@ -215,11 +252,21 @@ Exploring intelligent applications using:
 
 ---
 
-# 🐍 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sumit-1104/Sumit-1104/gh-pages/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-1104&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sumit-1104/Sumit-1104/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
 
 </div>
 
@@ -243,21 +290,23 @@ Exploring intelligent applications using:
 
 ```text
 🐍 Advanced Python & Django
-        ↓
+            ↓
 🔌 REST API Architecture
-        ↓
+            ↓
+🔐 Authentication & Security
+            ↓
 🗄️ Database & Backend Engineering
-        ↓
+            ↓
 🌐 Full-Stack Development
-        ↓
+            ↓
 🤖 AI/ML Integration
-        ↓
+            ↓
 🚀 Production-Ready Applications
 ```
 
 ---
 
-# 📚 My Development Philosophy
+# 📚 Development Philosophy
 
 <div align="center">
 
@@ -277,12 +326,27 @@ I believe good software should be:
 
 ---
 
+# 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</div>
+
+---
+
 # 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://portfolio-sumit-q0nv.onrender.com">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20My%20Website-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sumitsatpute/">
@@ -297,19 +361,17 @@ I believe good software should be:
 
 ### 💬 Open to Freelance Projects & Development Opportunities
 
-<br/>
-
-⭐ **If you like my work, consider starring one of my repositories!**
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn"/>
+### ⭐ If you find my work useful, consider starring my repositories!
 
-### 🚀 Thanks for visiting my profile!
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 **Python • Django • REST APIs • Full-Stack • AI/ML**
 
